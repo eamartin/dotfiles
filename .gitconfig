@@ -1,0 +1,8 @@
+[user]
+	name = Eric Martin
+	email = e.a.martin1337@gmail.com
+[color]
+	ui = true
+[core]
+	editor=emacs -nw
+        excludesFile = ~/.global_gitignore
