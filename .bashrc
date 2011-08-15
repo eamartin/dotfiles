@@ -1,11 +1,5 @@
-
-# Check for an interactive session
-[ -z "$PS1" ] && return
-
 alias ls='ls --color=auto'
 alias ping='ping -c 3'
-alias py='python2 -B'
-alias yap='yaourt'
 alias emacs="emacs -nw"
 
 PS1='[\u@\h \W]\$ '
